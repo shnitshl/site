@@ -1,0 +1,38 @@
+
+body {
+background-color: rgb(104, 220, 255);
+font-family: Arial, Helvetica, sans-serif;
+}
+
+
+ h1 {
+  background-color: rgb(255, 255, 255);
+  padding-right: 5px;
+   }
+   
+
+
+p {
+color: whitesmoke;
+}
+
+.intro {
+   background-color: rgb(248, 126, 126); 
+   font-size: xx-large;
+   font-style: bold;
+   color: black;
+size: 1px;
+
+}
+
+.text {
+   background-color: #4CAF50; /* Green */
+   border: none;
+   color: rgb(0, 183, 255);
+   padding: 35px 64px;
+   text-align: center;
+   text-decoration: firebrick;
+   display: -moz-deck;
+   font-size: 20px;
+ }
+
